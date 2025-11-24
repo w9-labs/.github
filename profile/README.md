@@ -67,6 +67,17 @@ Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before participating to 
 * **Email:** hi@w9.se
 
 ---
+## Sponsorship
+
+W9 Tools is community-funded. Two core partners currently cover operational costs:
+
+| Sponsor | Contribution |
+|---------|-------------|
+| **1Password** | Secure credential vault and secrets management for the release team. |
+| **Sentry** | “Sentry automatically detects and notifies you of critical performance issues so you can trace every slow transaction to a poor-performing API call or DB query.” |
+---
+Want to help? Email [hi@w9.se](mailto:hi@w9.se) to get involved or be listed here.
+
 
 <div align="center">
   <sub>Built with ❤️ by the W9 Labs.</sub>
