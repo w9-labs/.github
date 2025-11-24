@@ -45,7 +45,7 @@ We focus on developing solutions in the following areas:
 * **Privacy Tools:** Utilities that protect user identity on the modern web.
 * **Community Utilities:** Libraries and scripts to improve developer workflows.
 
-> *Check our [Repositories](https://github.com/orgs/w9-labs/repositories) tab to see our active projects.*
+> *Check our [Repositories](https://github.com/orgs/w9labs/repositories) tab to see our active projects.*
 
 ---
 
