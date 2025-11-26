@@ -73,9 +73,10 @@ W9 Tools is community-funded. These companies are currently sponsoring W9 Labs:
 
 | Sponsor | Contribution |
 |---------|-------------|
-| **1Password** | Secure credential vault and secrets management for the release team. |
-| **Sentry** | Sentry automatically detects and notifies you of critical performance issues so you can trace every slow transaction to a poor-performing API call or DB query. |
-| **Algolia** | From Agentic to Generative to Search AI, Algolia gives teams the tools to build intuitive, adaptive, ... |
+| [1Password](https://1password.com) | Secure credential vault and secrets management for the release team. |
+| [Sentry](https://sentry.io) | Sentry automatically detects and notifies you of critical performance issues so you can trace every slow transaction to a poor-performing API call or DB query. |
+| [Algolia](https://www.algolia.com/?utm_medium=AOS-referral) | From Agentic to Generative to Search AI, Algolia gives teams the tools to build intuitive, adaptive, ... |
+| [FOSSVPS](https://fossvps.org) | FOSSVPS provide infrastructure for open-source developers.|
 ---
 Want to help? Email [hi@w9.se](mailto:hi@w9.se) to get involved or be listed here.
 
