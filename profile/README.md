@@ -79,6 +79,7 @@ W9 Tools is community-funded. These companies are currently sponsoring W9 Labs:
 | [FOSSVPS](https://fossvps.org) | FOSSVPS provide infrastructure for open-source developers. |
 | [Termius](https://termius.com) | Termius provides a secure, reliable, and collaborative SSH client. |
 | [Cloudnest](https://cloudnest.vn) | provides high-performance cloud infrastructure with Tier 3 data centers, NVMe SSD storage, and 100% uptime for tools, apps, and automation. |
+| [Pollinations.ai](https://pollinations.ai) | Pollinations is an open-source gen AI platform based in Berlin, powering 500+ community projects with accessible text and image generation APIs. |
 ---
 Want to help? Email [hi@w9.se](mailto:hi@w9.se) to get involved or be listed here.
 
